@@ -1,24 +1,18 @@
 {
-  "id": "5da491d0627ec10010fa6b7b",
+  "id": "manifest-id-1",
+  "isDefault": true,
   "snapshot": "1.0.23754",
-  "isDefault": false,
-  "dependencies": {
-    "120904": "0.14.637122396770000000"
-  },
-  "contentTypes": [
+  "schemaVersion": "0.1",
+  "content": [
     {
       "id": "content/package-id-2",
-      "schemaVersion": "0.2",
+      "type": "decision-tree",
       "packageId": "120904",
       "title": "Acute decompensated heart failure: Determining if a hospitalized adult is ready for discharge",
       "version": "0.14",
       "snapshot": "0.14.637122396770000000",
       "status": "active",
-      "type": "decision-tree",
       "customIds": []
     }
-  ],
-  "rootNode": "5e83791e77716700102ed386",
-  "version": "1.0",
-  "schemaVersion": "0.2"
+  ]
 }
