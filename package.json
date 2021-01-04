@@ -1,0 +1,24 @@
+{
+  "packageId": "120904",
+  "decision-trees": [{
+    "id": "custom-id",
+    "title": "decision tree 1",
+    "version": "current version in master",
+    "publishedVersion": "should we have it here?"
+  }],
+  "voice-flows": [{
+    "title": "voiceflow 1",
+    "version": "current version in master",
+    "publishedVersion": "should we have it here?"
+  }],
+  "interactive-forms": [{
+    "title": "interactive form 1",
+    "version": "current version in master",
+    "publishedVersion": "should we have it here?"
+  }],
+  "calculators": [{
+    "title": "calculator 1",
+    "version": "current version in master",
+    "publishedVersion": "should we have it here?"
+  }]
+}
