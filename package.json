@@ -1,0 +1,8 @@
+{
+  "packageId": "5d724f03694d581cba7cc722",
+  "decision-trees": {
+    "title": "decision tree 1",
+    "version": "current version in master",
+    "publishedVersion": "should we have it here?"
+  }
+}
